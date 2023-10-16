@@ -4,3 +4,4 @@
 # CI is nothing but continious integration
 echo "hello"
 echo "hello jenkins"
+echo "welcome to the jenkins world"
