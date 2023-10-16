@@ -3,3 +3,4 @@
 # maven is build tool for java script
 # CI is nothing but continious integration
 echo "hello"
+echo "hello jenkins"
