@@ -6,7 +6,7 @@ pipeline{
                 echo "The build is done"
             }
         }
-        stage('Test'){
+        satge('The test is done'){
             steps{
                 echo "The test is done"
             }
